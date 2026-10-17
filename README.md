@@ -43,6 +43,6 @@ Educational practical project: Intelligent AI Assistant for a CRM system built w
 ## 📦 Getting Started
 
 1. Clone the repository:
-`bash
+```bash
 git clone [https://github.com/Byslim04/crm-assistant.git](https://github.com/Byslim04/crm-assistant.git)
 cd crm-assistant
