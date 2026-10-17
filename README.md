@@ -17,6 +17,6 @@
 ## 📦 Запуск проекта
 
 1. Клонируйте репозиторий:
-   '''bash
-   git clone [https://github.com/Byslim04/crm-assistant.git](https://github.com/Byslim04/crm-assistant.git)
-   cd crm-assistant
+'''bash
+git clone https://github.com/Byslim04/crm-assistant.git
+cd crm-assistant
