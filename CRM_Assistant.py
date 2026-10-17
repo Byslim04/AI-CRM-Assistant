@@ -1,4 +1,4 @@
-[17.10.2026 15:35] Александр Сергеевич: import os
+import os
 import json
 from typing import Optional, List, Dict, Any
 from pydantic import BaseModel, Field
